@@ -16,5 +16,5 @@ I Among the music that I like, I can say relaxation and classical genres like Ni
 ![CSS3](https://camo.githubusercontent.com/8c05e1906cf97284d62671e6ca46b131cb03223326073b9f6b4b29041f76ccc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333932366534302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d626c61636b)
 ![HTML5](https://img.shields.io/badge/html5-%23926E40.svg?style=for-the-badge&logo=html5&logoColor=black)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0fba7ed0-7beb-4b3d-a65d-e5887068ebb7/deploy-status)](https://app.netlify.com/sites/mani-sh/deploys)
 
